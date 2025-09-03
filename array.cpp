@@ -37,5 +37,7 @@ int main(){
 cout<<"minimum marks = "<<minimum<<endl;
 cout<<"maximum marks = "<<maximum<<endl;
 
+
+
     return 0;
 }
